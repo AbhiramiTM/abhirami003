@@ -20,9 +20,10 @@ public class Calculator {
      *
      * @param a the first integer
      * @param b the second integer
+     * @param c the third integer added by abhirami
      * @return the result of a minus b
      */
-    public int subtract(int a, int b) {
+    public int subtract(int a, int b,int c) {
         return a - b;
     }
 
